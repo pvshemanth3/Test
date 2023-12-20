@@ -1,0 +1,322 @@
+
+***** PAYROLL DIRECT DEPOSIT *****
+
+
+
+                   89331          Admin, Minihr                           SMITH CITY BOARD OF EDUCATION     8991
+      GAN3EL089331@dist.k12.ga.us
+                   323 32 3211    1682 MAIN STREET                        102 MAIN STREET
+                  999-555-0689    SMITH, GA 33333                         SMITH, GA 33333
+                  0001 / 08
+
+ 
+                                              Married  Joint Both   Checking     *************1257        3,380.54
+                  01/30/2019                     00    M[0] D[00]
+ 
+ 
+ 
+                                                       .00                       000001                   3,380.54
+      PAYROLL TEST
+ 
+ 
+ 
+                            5865.37                                      5865.37    1025.86    2484.83     3380.54
+                            5865.37                                      5865.37    1025.86    2484.83     3380.54
+ 
+ 
+      State Salary                                               3,942.67
+      Local Salary                                                 259.33
+      Extended Year Supplement                                     830.04
+      Administrative Supplement                                    833.33
+ 
+ 
+                                                                 5,865.37
+ 
+
+      SICK                  2.00   60.00  PSERS SICK                         TRS                 1225.87   1225.87
+      PERSONAL                            PERSONAL                           STATE HEALTH         945.00    945.00
+      ANNUAL DAYS                  10.00                                     FICA                 411.94    411.94
+      LWOP
+      OTHER DAYS
+      STAFF DEVEL           1.00
+      SICK BANK                                                                                  2582.81   2582.81
+
+
+      SOC. SEC.        333.86     333.86 VALIC 403B         500.00    500.00 VENDOR 004373         54.78     54.78
+      MEDICARE          78.08      78.08 ANTH S EESP        296.62    296.62 VENDOR 000012         41.50     41.50
+      FED W/H TAX      393.62     393.62 I-VNDR 000110      100.00    100.00 VENDOR 006076         16.50     16.50
+      GA INCOME TAX    220.30     220.30 I-VNDR 005946       42.61     42.61 VENDOR 005949         13.75     13.75
+      TRS              351.92     351.92 I-VNDR 000110       25.00     25.00
+                                         I-VNDR 005947       11.79     11.79
+                                         TOTAL OTHER          4.50      4.50
+                      1377.78    1377.78                    980.52    980.52                      126.53    126.53
+ 
+
+
+
+
+
+
+                                                                01/31/2019
+
+
+                                                                                                   ****3,380.54
+
+
+                                         THREE THOUSAND THREE HUNDRED EIGHTY AND 54/100
+
+
+
+
+
+
+                AN3EL, GA3E
+                1682 MAIN STREET
+                SMITH, GA 33333
+ 
+ 
+000001
+000001
+
+
+ 
+***** PAYROLL DIRECT DEPOSIT *****
+
+
+
+                   87869          AN7ERS, RO7ENDO                         SMITH CITY BOARD OF EDUCATION     8991
+      RAN7ERS087869@dist.k12.ga.usA.US
+                   000 00 0000    3171 MAIN STREET                        102 MAIN STREET
+                  999-555-2184    SMITH, GA 33333                         SMITH, GA 33333
+                  0001 / 14
+
+ 
+                                              Single   Single       Checking     *************1532        2,009.87
+                  01/31/2019                     00    M[0] D[00]   Savings      *************1533          100.00
+ 
+ 
+ 
+                                                       .00                       000002                   2,109.87
+      PAYROLL TEST
+ 
+ 
+ 
+                            3509.80                                      3509.80     639.78    1399.93     2109.87
+                            3509.80                                      3509.80     639.78    1399.93     2109.87
+ 
+ 
+      Classified Salary                                          3,509.80
+ 
+ 
+ 
+ 
+ 
+                                                                 3,509.80
+ 
+
+      SICK                  1.00   60.00  PSERS SICK                         STATE HEALTH         945.00    945.00
+      PERSONAL                            PERSONAL                           TRS                  733.55    733.55
+      ANNUAL DAYS                   5.00                                     FICA                 235.78    235.78
+      LWOP
+      OTHER DAYS
+      STAFF DEVEL
+      SICK BANK                                                                                  1914.33   1914.33
+
+
+      SOC. SEC.        191.09     191.09 ANTH S FAM         394.54    394.54 VENDOR 005949         28.13     28.13
+      MEDICARE          44.69      44.69 VALIC 403B          80.00     80.00 VENDOR 005949         13.75     13.75
+      FED W/H TAX      280.81     280.81 I-VNDR 005946       26.74     26.74
+      GA INCOME TAX    123.19     123.19 I-VNDR 005947        5.90      5.90
+      TRS              210.59     210.59 I-VNDR 006077         .50       .50
+ 
+ 
+                       850.37     850.37                    507.68    507.68                       41.88     41.88
+ 
+
+
+
+
+
+
+                                                                01/31/2019
+
+
+                                                                                                   ****2,109.87
+
+
+                                               TWO THOUSAND ONE HUNDRED NINE AND 87/100
+
+
+
+
+
+
+                AN7ERS, RO7ENDO
+                3171 MAIN STREET
+                SMITH, GA 33333
+ 
+ 
+000002
+000002
+
+
+ 
+***** PAYROLL DIRECT DEPOSIT *****
+
+
+
+                   89117          AR4IS, RE4NALDO                         SMITH CITY BOARD OF EDUCATION     8991
+      RAR4IS089117@dist.k12.ga.us
+                   000 00 0000    1898 MAIN STREET                        102 MAIN STREET
+                  999-555-0911    SMITH, GA 33333                         SMITH, GA 33333
+                  0001 / 12
+
+ 
+                                              Married  Joint Both   Checking     *************1298          781.77
+                  01/31/2019                     00    M[0] D[00]
+ 
+                                                55.00
+ 
+                                                       .00                       000003                     781.77
+      PAYROLL TEST
+ 
+ 
+ 
+                            1047.68                                      1047.68     146.26     265.91      781.77
+                            1047.68                                      1047.68     146.26     265.91      781.77
+ 
+ 
+      Classified Salary                                          1,047.68
+ 
+ 
+ 
+ 
+ 
+                                                                 1,047.68
+ 
+
+      SICK                   .50   17.25  PSERS SICK                         STATE HEALTH         945.00    945.00
+      PERSONAL              1.00          PERSONAL                           FICA                  74.12     74.12
+      ANNUAL DAYS
+      LWOP
+      OTHER DAYS
+      STAFF DEVEL
+                                                                                                 1019.12   1019.12
+
+
+      SOC. SEC.         60.07      60.07 ANTH B SINGL        72.45     72.45 VENDOR 004373          9.41      9.41
+      MEDICARE          14.05      14.05 I-VNDR 005947        5.90      5.90 VENDOR 005949          7.64      7.64
+      FED W/H TAX       55.00      55.00 I-VNDR 006077         .50       .50 VENDOR 004373          7.19      7.19
+      GA INCOME TAX     17.14      17.14                                     VENDOR 005949          6.64      6.64
+      OLD PSERS          4.00       4.00                                     VENDOR 005949          5.92      5.92
+ 
+ 
+                       150.26     150.26                     78.85     78.85                       36.80     36.80
+ 
+
+
+
+
+
+
+                                                                01/31/2019
+
+
+                                                                                                   ******781.77
+
+
+                                                    SEVEN HUNDRED EIGHTY ONE AND 77/100
+
+
+
+
+
+
+                AR4IS, RE4NALDO
+                1898 MAIN STREET
+                SMITH, GA 33333
+ 
+ 
+000003
+000003
+
+
+ 
+***** PAYROLL DIRECT DEPOSIT *****
+
+
+
+                   87459          BA2DA, JO2QUIN                          SMITH CITY BOARD OF EDUCATION     8991
+      JBA2DA087459@dist.k12.ga.usGA.US
+                   000 00 0000    3588 MAIN STREET                        102 MAIN STREET
+                  999-555-2602    SMITH, GA 33333                         SMITH, GA 33333
+                  0001 / 12
+
+ 
+                                              Married  Joint Both   Checking     *************1632        1,046.44
+                  01/31/2019                     00    M[0] D[00]
+ 
+                                                33.08
+ 
+                                                       .00                       000004                   1,046.44
+      PAYROLL TEST
+ 
+ 
+ 
+                            1325.99                                      1325.99     196.37     279.55     1046.44
+                            1325.99                                      1325.99     196.37     279.55     1046.44
+ 
+ 
+      Classified Salary                                          1,325.99
+ 
+ 
+ 
+ 
+ 
+                                                                 1,325.99
+ 
+
+      SICK                          6.25  PSERS SICK                         FICA                  98.18     98.18
+      PERSONAL              1.50          PERSONAL
+      ANNUAL DAYS
+      LWOP
+      OTHER DAYS
+      STAFF DEVEL
+      SICK BANK                                                                                    98.18     98.18
+
+
+      SOC. SEC.         79.57      79.57 I-VNDR 005946       42.61     42.61 VENDOR 005949         25.64     25.64
+      MEDICARE          18.61      18.61                                     VENDOR 005949          7.64      7.64
+      FED W/H TAX       63.12      63.12                                     VENDOR 000016          7.29      7.29
+      GA INCOME TAX     35.07      35.07
+ 
+ 
+ 
+                       196.37     196.37                     42.61     42.61                       40.57     40.57
+ 
+
+
+
+
+
+
+                                                                01/31/2019
+
+
+                                                                                                   ****1,046.44
+
+
+                                                      ONE THOUSAND FORTY SIX AND 44/100
+
+
+
+
+
+
+                BA2DA, JO2QUIN
+                3588 MAIN STREET
+                SMITH, GA 33333
+ 
+ 
+000004
+000004
